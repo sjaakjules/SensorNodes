@@ -1,0 +1,6 @@
+{
+    "particle.firmwareVersion": "1.2.1-rc.1",
+    "cortex-debug.openocdPath": "C:\\Users\\julia\\.particle\\toolchains\\openocd\\0.10.0-particle.1\\bin\\openocd.exe",
+    "particle.targetPlatform": "photon",
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core"
+}
